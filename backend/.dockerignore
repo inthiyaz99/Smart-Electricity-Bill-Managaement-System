@@ -1,5 +1,4 @@
 target/
-.mvn/
 .vscode/
 .env
 *.log
