@@ -1,7 +1,6 @@
 com\smartbill\smartbill\repository\BillRepository.class
 com\smartbill\smartbill\model\Bill.class
 com\smartbill\smartbill\controller\UserController.class
-com\smartbill\smartbill\WebConfig.class
 com\smartbill\smartbill\model\Reading.class
 com\smartbill\smartbill\repository\ReadingRepository.class
 com\smartbill\smartbill\SecurityConfig.class

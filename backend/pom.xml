@@ -43,6 +43,12 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
+        <!-- Production health checks -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-actuator</artifactId>
+        </dependency>
+
         <!-- BCrypt Password Encryption -->
         <dependency>
             <groupId>org.springframework.security</groupId>

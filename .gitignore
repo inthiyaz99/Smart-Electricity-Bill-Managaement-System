@@ -1,0 +1,27 @@
+# Secrets and environment-specific configuration
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# JavaScript build artifacts and dependencies
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+coverage/
+*.log
+
+# Java / Maven build artifacts
+target/
+**/target/
+*.class
+
+# IDE and operating system files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
